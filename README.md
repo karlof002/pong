@@ -42,7 +42,7 @@ Includes realistic ball physics, paddle spin, smooth animations, and an AI oppon
 ```bash
 # Clone the repository
 git clone https://github.com/karlof002/pong.git
-cd pong-ai
+cd pong
 
 # Install dependencies
 pip install pygame
